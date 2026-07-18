@@ -20,7 +20,7 @@ tags: [topic-roadmap]
 ### Architecture and Objects
 
 - [ ] Cloud services, storage and virtual warehouse layers
-- [ ] Databases, schemas, tables, views and secure views
+- [x] Databases, schemas, tables, views and secure views
 - [ ] Permanent, transient and temporary objects
 - [ ] Micro-partitions and metadata
 - [x] Zero-copy cloning and Time Travel
