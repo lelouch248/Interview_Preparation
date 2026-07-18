@@ -23,7 +23,7 @@ tags: [topic-roadmap]
 - [ ] Databases, schemas, tables, views and secure views
 - [ ] Permanent, transient and temporary objects
 - [ ] Micro-partitions and metadata
-- [ ] Zero-copy cloning and Time Travel
+- [x] Zero-copy cloning and Time Travel
 - [ ] Fail-safe concepts and limitations
 
 ### Loading and Unloading
